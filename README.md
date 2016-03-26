@@ -47,6 +47,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 - [Moving from Nginx to Caddy](https://gmnt.net/post/moving-from-nginx-to-caddy/)
 - [Moving to Caddy](https://abiosoft.com/moving-to-caddy/)
 - [Caddy Server and WordPress (PHP-FPM)](https://denbeke.be/blog/servers/caddy-server-and-wordpress-php-fpm/)
+- [Serving ownCloud with Caddy](https://denbeke.be/blog/webdevelopment/serving-owncloud-with-caddy/)
 
 
 ## Middlewares development
